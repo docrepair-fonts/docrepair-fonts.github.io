@@ -2,7 +2,7 @@ title: DocRepair
 description: Documentation for DocRepair project
 baseurl: "/"
 url: "https://doc-repair.github.io"
-remote_theme: vsoch/mkdocs-jekyll #pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 kramdown:
   parse_block_html: true
