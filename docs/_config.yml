@@ -1,7 +1,7 @@
-title: Noto docs
-description: Unofficial documentation for the Noto fonts
-baseurl: "/noto-docs"
-url: "https://notofonts.github.io"
+title: DocRepair
+description: Documentation for DocRepair project
+baseurl: "/"
+url: "https://doc-repair.github.io"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 kramdown:
@@ -24,4 +24,4 @@ search:
   rel_url: true
   button: true
 
-footer_content: "Download and use <a href='https://www.google.com/get/noto/'>Noto fonts</a>."
+footer_content: "Copyright © 2023 DocRepair contributors"
